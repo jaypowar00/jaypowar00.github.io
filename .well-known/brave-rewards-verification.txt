@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: jaypowar00.github.io
+Token: 089f89a49f15574969c9cba1f7103eb107cfaba2a09d45f0cbb67e92dd1303ab

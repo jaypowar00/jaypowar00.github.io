@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.mrwhoknows.csgeeks",
+               "sha256_cert_fingerprints": ["C5:09:1D:2F:42:D3:45:C9:F1:E4:77:4E:13:49:79:1C:F1:A2:BC:BE:4A:A1:52:D6:0A:8B:8F:B1:07:69:E4:AB"] }
+}]
